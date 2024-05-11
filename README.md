@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hd2342-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="hd2342-dubey" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, NodeJS, MongoDB**
+- 🌱 I’m currently learning **C#, .NET, ASP.NET**
 
-- 💬 Ask me about **C++, Javascript, React**
+- 💬 Ask me about **C++, Python, C#, .NET, ASP.NET**
 
 - 📫 How to reach me **dubeyharshit663@gmail.com**
 
